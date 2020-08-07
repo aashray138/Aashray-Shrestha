@@ -12,7 +12,7 @@ import "./styles/index.scss";
 ReactDOM.render(
 	<React.Fragment>
 		<Navbar />
-	
+	Hello
 		<Footer />
 	</React.Fragment>, document.getElementById('root'));
 
