@@ -12,6 +12,7 @@ import "./styles/index.scss";
 ReactDOM.render(
 	<React.Fragment>
 		<Navbar />
+	
 		<Footer />
 	</React.Fragment>, document.getElementById('root'));
 
