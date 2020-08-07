@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.8eec4104.chunk.css",
+    "main.js": "/my-app/static/js/main.26c6d587.chunk.js",
+    "main.js.map": "/my-app/static/js/main.26c6d587.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.31abddd6.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.31abddd6.js.map",
+    "static/css/2.0cee8fd6.chunk.css": "/my-app/static/css/2.0cee8fd6.chunk.css",
+    "static/js/2.f188cedc.chunk.js": "/my-app/static/js/2.f188cedc.chunk.js",
+    "static/js/2.f188cedc.chunk.js.map": "/my-app/static/js/2.f188cedc.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.d4eb584241e0faa0c41245101f71f73b.js": "/my-app/precache-manifest.d4eb584241e0faa0c41245101f71f73b.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.0cee8fd6.chunk.css.map": "/my-app/static/css/2.0cee8fd6.chunk.css.map",
+    "static/css/main.8eec4104.chunk.css.map": "/my-app/static/css/main.8eec4104.chunk.css.map",
+    "static/js/2.f188cedc.chunk.js.LICENSE.txt": "/my-app/static/js/2.f188cedc.chunk.js.LICENSE.txt",
+    "static/media/Artville.png": "/my-app/static/media/Artville.c8712b47.png",
+    "static/media/CampusCalendar.png": "/my-app/static/media/CampusCalendar.ced88068.png",
+    "static/media/LightenUp.png": "/my-app/static/media/LightenUp.ca9d5efd.png",
+    "static/media/ResumeBuilder.png": "/my-app/static/media/ResumeBuilder.3de48004.png",
+    "static/media/Transcript.png": "/my-app/static/media/Transcript.ad4da4cc.png",
+    "static/media/WhereUAtt.png": "/my-app/static/media/WhereUAtt.2158bea9.png",
+    "static/media/aashray.jpg": "/my-app/static/media/aashray.68ca7024.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31abddd6.js",
+    "static/css/2.0cee8fd6.chunk.css",
+    "static/js/2.f188cedc.chunk.js",
+    "static/css/main.8eec4104.chunk.css",
+    "static/js/main.26c6d587.chunk.js"
+  ]
+}
